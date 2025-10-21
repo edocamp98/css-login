@@ -17,7 +17,7 @@
 }
 
 body, html{
-    background-color: var(--cor3);
+    background-image: linear-gradient(to bottom, var(--cor4), var(--cor6));
     height: 100vh;
     width: 100vw;
 }

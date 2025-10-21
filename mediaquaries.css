@@ -16,6 +16,7 @@
     }
     #login {
         width: 90vw;
+        height: 300px;
     }
     #imagem{
         float: left;
@@ -34,14 +35,15 @@
     }
     #login {
         width: 900px;
+       
     }
     #imagem {
-        float: right;
+        float: left;
         width: 50%;
         height: 100%;
     }   
     #formulario {
-        float: left;
+        float: right;
         width: 50%;
     }
 }
